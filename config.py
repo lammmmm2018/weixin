@@ -11,7 +11,7 @@ WELCOME_WORD = u'''\
 目录： 获取文章目录的网址
 帮助： 获取本信息
 其他： 图灵机器人会陪你聊天'''
-INDEX_URL = 'https://git.sinacloud.com/mumushow'
+INDEX_URL = 'http://mumushow.applinzi.com'
 REPLY_DICT = {
     u'目录': '点这里-> ' + INDEX_URL,
     u'帮助': WELCOME_WORD,
