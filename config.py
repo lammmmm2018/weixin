@@ -1,6 +1,6 @@
 #coding=utf8
 
-TOKEN = 'Token'
+TOKEN = 'zxc123'
 APP_ID = 'wx68d57a9432660cb2'
 SECRET_KEY = '03481467f2ce08b345a7634d0794a043'
 TULING_KEY = '8edce3ce905a4c1dbb965e6b35c3834d'
